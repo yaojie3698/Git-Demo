@@ -1,2 +1,3 @@
 java
-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
+github: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
+gitee:eb8d5a8d9652168697dd307576e92c2e
