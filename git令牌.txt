@@ -1,3 +1,3 @@
 java
-github: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
+github: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
 gitee:eb8d5a8d9652168697dd307576e92c2e
